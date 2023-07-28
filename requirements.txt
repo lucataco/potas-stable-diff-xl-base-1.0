@@ -1,3 +1,8 @@
 potassium
+git+https://github.com/huggingface/diffusers.git@34abee090750d22fef357bfb1ffd564c961b9e1d
 torch
 transformers
+invisible-watermark
+accelerate
+safetensors
+xformers
